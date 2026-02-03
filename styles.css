@@ -1,1 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
 
+.container {
+    text-align: center;
+}
+
+.test-text {
+    color: blue;
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+}
